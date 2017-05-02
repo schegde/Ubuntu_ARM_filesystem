@@ -22,5 +22,7 @@ Resolve by these commands:
 sudo mkdir /etc/apt/preferences.d
 sudo mkdir /var/lib/dpkg/updates/
 
+NOTE!!!: Many of directory not found errors may pop up because in version-controlling of this file system through git, these empty folders did not get added to the git repository and hence don't come on github!. Just use sudo mkdir <directory> for directory not found errors.
+
 
 Write about network bring up:refer zedboard network bring up

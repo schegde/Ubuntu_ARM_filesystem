@@ -1,0 +1,5 @@
+/usr/lib/mime/packages mime-support/noawait
+/usr/share/applications mime-support/noawait
+/etc/init ureadahead
+/etc/init.d ureadahead
+/lib/udev/hwdb.d udev/noawait

@@ -1,0 +1,208 @@
+Package: libgssapi-krb5-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmpfr4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkrb5-3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libk5crypto3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgmp10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkeyutils1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcloog-isl4
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkrb5-26-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhcrypto4-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: liberror-perl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasn1-8-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgcc-4.8-dev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libstdc++-4.8-dev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libsasl2-modules-db
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libc6-dev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libkrb5support0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: g++-4.8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libatomic1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libisl10
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libldap-2.4-2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libasan0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libc-dev-bin
+Architecture: armhf
+Auto-Installed: 1
+
+Package: linux-libc-dev
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libmpc3
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cpp
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libcurl3-gnutls
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgomp1
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libroken18-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libhx509-5-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: binutils
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libheimbase1-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgssapi3-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libidn11
+Architecture: armhf
+Auto-Installed: 1
+
+Package: cpp-4.8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: gcc-4.8
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwind0-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: git-man
+Architecture: armhf
+Auto-Installed: 1
+
+Package: librtmp0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libheimntlm0-heimdal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libck-connector0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-sftp-server
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libwrap0
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: armhf
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython2.7-minimal
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython2.7-stdlib
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: armhf
+Auto-Installed: 1
+
+Package: libpython2.7
+Architecture: armhf
+Auto-Installed: 1
+
+Package: openssl
+Architecture: armhf
+Auto-Installed: 1
+
+Package: ca-certificates
+Architecture: armhf
+Auto-Installed: 1
+

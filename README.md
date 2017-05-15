@@ -26,3 +26,5 @@ NOTE!!!: Many of directory not found errors may pop up because in version-contro
 
 
 Write about network bring up:refer zedboard network bring up
+
+Type an exit in terminal after booting up to correct some weird serial getTTY behaviour, that doesn't put terminal prompts on seperate lines.
